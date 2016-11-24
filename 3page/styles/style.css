@@ -1,0 +1,118 @@
+      *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      header {
+      display: block;
+      background: url(../images/patter01.png);
+      height: 70px;
+      text-align: center;
+      box-shadow: 0 7px 10px rgba(220,206,206,0.2), 0 7px 10px rgba(249,243,243,0.5);
+      margin-right: 50px;
+      margin-left: 50px;
+      margin-top: 10px;
+      }
+
+    header a{
+      line-height: 65px;
+      color: #161718;
+      font-family: "BankGothic Md BT";
+      font-size: 32px;
+      text-transform: uppercase;
+      text-decoration: underline;
+      margin-right: 20px;
+      font-size: 1.6em;     
+      transition-property: color;
+      transition-timing-function: ease-out;
+      transition-duration: 0.6s;
+
+   }
+ 
+   header a:hover{
+        color: #fc4dcf ;
+      }
+    div.b1{
+      background:space grey;
+                
+}
+
+    h1{
+      color: rgba(236, 240, 241,1.0);
+      padding-top: 20px;
+    }
+
+body{
+  padding-top: 30px;
+  padding-bottom: 50px;
+  background: url(../images/pattern1.jpg);
+}
+
+.boxes{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  width: 1040px;
+  margin: 0 auto;
+  justify-content: space-between; ;
+  margin-bottom: 60px;
+  padding-top: 30px;
+  margin-right: 60px;
+}
+
+.box{
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+ justify-content: space-between;
+  flex-wrap: nowrap;
+  margin-right: 0px auto;
+  padding: 10px;
+  height: auto;
+  border: 1px solid #95a5a6;
+  box-shadow: 0 3px 6px rgba(220,206,206,0.2), 0 3px 6px rgba(249,243,243,0.5);
+}
+.box:hover{
+  box-shadow: 0 3px 6px rgba(220, 206, 206, 1), 0 3px 6px rgba(249, 243, 243, 1);
+}
+.box img{
+  width: 280px;
+  height: 345px;
+}
+h4{
+  color: black;
+  text-align: center;
+  background: rgba(236, 240, 241,1.0);
+  font-family: "Lora";
+  font-size: 15px;
+  
+}
+
+
+button{
+  width: 100%;
+  height: 60px;
+  font-size: 1.3em;
+  text-transform: uppercase;
+  font-family: "BankGothic Md BT";
+  border: none;
+  border: 1px solid black;
+  outline: none;
+  cursor: pointer;
+  transition-property: background;
+  transition-timing-function: ease-in-out;
+  margin: 2px;
+}
+
+button:active{
+  font-size: 1.6em;
+  font-family: "BankGothic Md BT";
+  transition-duration: 1s;
+}
+
+button:hover{
+  background:pink;
+  font-size: 0.9em;
+  }
+  

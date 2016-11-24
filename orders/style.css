@@ -1,0 +1,66 @@
+*{
+      	margin: 0;
+      	padding: 0;
+        box-sizing: border-box;
+      }
+      body{
+	  padding-top: 30px;
+	  padding-bottom: 50px;
+	  background:#641051 ;
+}
+
+      header {
+      display: block;
+      background: url(patter01.png);
+      height: 70px;
+      text-align: center;
+      box-shadow: 0 7px 10px rgba(220,206,206,0.2), 0 7px 10px rgba(249,243,243,0.5);
+      }
+      header a{
+      line-height: 65px;
+      color: #161718;
+      font-family: "BankGothic Md BT";
+      font-size: 32px;
+      text-transform: uppercase;
+      text-decoration: none;
+      margin-right: 20px;
+      font-size: 1.6em;     
+      transition-property: color;
+      transition-timing-function: ease-out;
+      transition-duration: 0.6s;
+
+   }
+ 
+   header a:hover{
+        color: #fc4dcf ;
+      }
+      h5{
+      	color: white;
+      	font-family: "BankGothic Md BT";
+      	font-size: 1.6em;
+      	margin-top: 30px;
+      }
+     button{
+  height: 20px;
+  font-size: 0.88em;
+  text-transform: uppercase;
+  font-family: "BankGothic Md BT";
+  border: none;
+  border: 1px solid black;
+  outline: none;
+  cursor: pointer;
+  transition-property: background;
+  transition-timing-function: ease-in-out;
+  margin: 2px;
+}
+
+button:active{
+  font-size: 1.6em;
+  font-family: "BankGothic Md BT";
+  transition-duration: 1s;
+}
+
+button:hover{
+  background:pink;
+  font-size: 0.9em;
+  }

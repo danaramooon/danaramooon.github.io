@@ -1,0 +1,83 @@
+      *{
+      	margin: 0;
+      	padding: 0;
+        box-sizing: border-box;
+      }
+      
+      header {
+      display: block;
+      background: url(../images/patter01.png);
+      height: 70px;
+      text-align: center;
+      box-shadow: 0 7px 10px rgba(220,206,206,0.2), 0 7px 10px rgba(249,243,243,0.5);
+      margin-top: 10px;
+      }
+
+    
+
+    header a{
+      line-height: 65px;
+      color: #161718;
+      font-family: "BankGothic Md BT";
+      font-size: 32px;
+      text-transform: uppercase;
+      text-decoration: underline;
+      margin-right: 20px;
+      font-size: 1.6em;     
+      transition-property: color;
+      transition-timing-function: ease-out;
+      transition-duration: 0.6s;
+
+   }
+ 
+   header a:hover{
+        color: #fc4dcf ;
+      }
+
+    
+img  {
+  padding-top: 20px;
+
+
+}
+h1{
+  color: white;
+  padding-top: 20px;
+}
+    p{
+      color: white;
+      padding-top: 15px;
+    }
+    h3{
+      color: white;
+      padding-top: 15px;
+
+    }
+    
+    body{
+  padding-top: 20px;
+  padding-bottom: 50px;
+  background: url(../images/pattern1.jpg);
+  margin-right: 50px;
+  margin-left: 50px;
+}
+div.blocks{
+  display: block;
+  background-color: #161718; ;
+  padding-top: 0;
+  padding: 10px;
+  margin-top:  10px;
+  box-shadow: 0 3px 6px rgba(220,206,206,0.2), 0 3px 6px rgba(249,243,243,0.5);
+  
+}
+
+div.text {
+  margin-top: 50px;   
+  background: white;
+  }
+ h4{
+  text-decoration: underline;
+  color: #161718;
+}
+
+
