@@ -1,0 +1,85 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/0de02b65/
+*	1page/styles/style11.css	/^      *{$/;"	s
+*	2page/styles/style.css	/^      *{$/;"	s
+*	3page/styles/style.css	/^      *{$/;"	s
+*	4page/styles/style.css	/^            *{$/;"	s
+*	5page/styles/style.css	/^      *{$/;"	s
+*	orders/style.css	/^*{$/;"	s
+.box	2page/styles/style.css	/^.box{$/;"	c
+.box	3page/styles/style.css	/^.box{$/;"	c
+.box	5page/styles/style.css	/^.box{$/;"	c
+.box img	2page/styles/style.css	/^.box img{$/;"	s
+.box img	3page/styles/style.css	/^.box img{$/;"	s
+.box:hover	2page/styles/style.css	/^.box:hover{$/;"	c
+.box:hover	3page/styles/style.css	/^.box:hover{$/;"	c
+.boxes	2page/styles/style.css	/^.boxes{$/;"	c
+.boxes	3page/styles/style.css	/^.boxes{$/;"	c
+.boxes	5page/styles/style.css	/^.boxes{$/;"	c
+Alba Moda	1page/1page.html	/^	<marquee><h1>Alba Moda<\/h1><\/marquee>$/;"	h
+Alba Moda is the best online-store	2page/2page.html	/^	<marquee><h1>Alba Moda is the best online-store <\/h1><\/marquee>$/;"	h
+Alba Moda is the best online-store	3page/3page.html	/^	<marquee><h1>Alba Moda is the best online-store <\/h1><\/marquee>$/;"	h
+a	4page/styles/style.css	/^a{$/;"	s
+body	1page/styles/style11.css	/^    body{$/;"	s
+body	2page/styles/style.css	/^body{$/;"	s
+body	3page/styles/style.css	/^body{$/;"	s
+body	4page/styles/style.css	/^body{$/;"	s
+body	5page/styles/style.css	/^body{$/;"	s
+body	orders/style.css	/^      body{$/;"	s
+button	2page/styles/style.css	/^button{$/;"	s
+button	3page/styles/style.css	/^button{$/;"	s
+button	orders/style.css	/^     button{$/;"	s
+button:active	2page/styles/style.css	/^button:active{$/;"	s
+button:active	3page/styles/style.css	/^button:active{$/;"	s
+button:active	orders/style.css	/^button:active{$/;"	s
+button:hover	2page/styles/style.css	/^button:hover{$/;"	s
+button:hover	3page/styles/style.css	/^button:hover{$/;"	s
+button:hover	orders/style.css	/^button:hover{$/;"	s
+div.b1	2page/styles/style.css	/^    div.b1{$/;"	c
+div.b1	3page/styles/style.css	/^    div.b1{$/;"	c
+div.blocks	1page/styles/style11.css	/^div.blocks{$/;"	c
+div.text	1page/styles/style11.css	/^div.text {$/;"	c
+email	1page/1page.html	/^<input id="email" name="email" class="newsletter-email _newsletterEmail" length="500" data-rule-/;"	I
+email	4page/4page.html	/^<body><input id="email" name="email" class="newsletter-email _newsletterEmail" length="500" data/;"	I
+email	5page/5page.html	/^    <input id="email" name="email" class="newsletter-email _newsletterEmail" length="500" data-r/;"	I
+email	orders/index.html	/^<input id="email" name="email" class="newsletter-email _newsletterEmail" length="500" data-rule-/;"	I
+h1	1page/styles/style11.css	/^h1{$/;"	s
+h1	2page/styles/style.css	/^    h1{$/;"	s
+h1	3page/styles/style.css	/^    h1{$/;"	s
+h3	1page/styles/style11.css	/^    h3{$/;"	s
+h4	1page/styles/style11.css	/^ h4{$/;"	s
+h4	2page/styles/style.css	/^h4{$/;"	s
+h4	3page/styles/style.css	/^h4{$/;"	s
+h5	2page/styles/style.css	/^h5{$/;"	s
+h5	orders/style.css	/^      h5{$/;"	s
+header	1page/styles/style11.css	/^      header {$/;"	s
+header	2page/styles/style.css	/^      header {$/;"	s
+header	3page/styles/style.css	/^      header {$/;"	s
+header	4page/styles/style.css	/^      header {$/;"	s
+header	5page/styles/style.css	/^      header {$/;"	s
+header	orders/style.css	/^      header {$/;"	s
+header a	1page/styles/style11.css	/^    header a{$/;"	s
+header a	2page/styles/style.css	/^    header a{$/;"	s
+header a	3page/styles/style.css	/^    header a{$/;"	s
+header a	4page/styles/style.css	/^    header a{$/;"	s
+header a	5page/styles/style.css	/^    header a{$/;"	s
+header a	orders/style.css	/^      header a{$/;"	s
+header a:hover	1page/styles/style11.css	/^   header a:hover{$/;"	s
+header a:hover	2page/styles/style.css	/^   header a:hover{$/;"	s
+header a:hover	3page/styles/style.css	/^   header a:hover{$/;"	s
+header a:hover	4page/styles/style.css	/^   header a:hover{$/;"	s
+header a:hover	5page/styles/style.css	/^   header a:hover{$/;"	s
+header a:hover	orders/style.css	/^   header a:hover{$/;"	s
+img	1page/styles/style11.css	/^img  {$/;"	s
+img	4page/styles/style.css	/^img {$/;"	s
+img	5page/styles/style.css	/^img {$/;"	s
+p	1page/styles/style11.css	/^    p{$/;"	s
+p	4page/styles/style.css	/^p{$/;"	s
+Актуальные коллекции в новом каталоге Альба Мода.	1page/1page.html	/^	<h3>Актуальные коллекции в новом каталоге Альба Мода./;"	j
+Каталог Alba Moda - одежда для любого случая!	1page/1page.html	/^<div class="block3"><h3>Каталог Alba Moda - одежда для любого случая/;"	j
+Только самое лучшее для клиентов Alba Moda.	1page/1page.html	/^<div class="block2"><h3>Только самое лучшее для клиентов Alba Moda.</;"	j
